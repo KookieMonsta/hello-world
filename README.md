@@ -1,2 +1,4 @@
 # hello-world
-Tutorial Repository
+
+This is the tutorial
+I thinks its pretty nice
